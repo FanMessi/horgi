@@ -4,3 +4,7 @@ title: Add Scroll to
 labels: ["integration"]
 body:
   - type: input
+  id: integration_name
+    attributes:
+      label: "Name of the project"
+      placeholder: "Example: wagmi"
