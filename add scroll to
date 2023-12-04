@@ -8,3 +8,5 @@ body:
     attributes:
       label: "Name of the project"
       placeholder: "Example: wagmi"
+ validations:
+      required: true
